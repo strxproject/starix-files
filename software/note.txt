@@ -1,0 +1,1 @@
+hey, if you dont see open shell here it is because its installed somewhere else.
