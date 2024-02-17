@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.3.0">
+	<MenuStyle value="Classic1"/>
+	<ShiftClick value="ClassicMenu"/>
+	<ShiftWin value="ClassicMenu"/>
+	<StartScreenShortcut value="0"/>
+	<SearchBox value="Hide"/>
+	<SkinC1 value="Classic Skin"/>
+	<SkinVariationC1 value=""/>
+	<SkinOptionsC1>
+		<Line>CAPTION=1</Line>
+		<Line>USER_IMAGE=0</Line>
+		<Line>USER_NAME=0</Line>
+		<Line>CENTER_NAME=0</Line>
+		<Line>SMALL_ICONS=1</Line>
+		<Line>THICK_BORDER=0</Line>
+		<Line>SOLID_SELECTION=0</Line>
+	</SkinOptionsC1>
+	<SkipMetro value="1"/>
+</Settings>
